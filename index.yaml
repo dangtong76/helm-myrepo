@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nodes-sts:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-02T13:44:37.253896+09:00"
+    description: A Helm chart for nodejs statfullset
+    digest: 687ea871b55571e189804081bd0e060ed1468b2c80361b2fa3695f36f6b7f13e
+    name: nodes-sts
+    type: application
+    urls:
+    - nodes-sts-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-02T13:44:37.251286+09:00"
